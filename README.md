@@ -120,5 +120,12 @@ Desenvolvimento de soluções tecnológicas para pequenas e médias empresas.
 
 ## 📫 Contato
 
-GitHub: **@lucsy02**
-e-mail: roshili.tech@gmail.com
+<p align="left">
+  <a href="https://github.com/lucsy02">
+    <img src="https://img.shields.io/badge/GitHub-lucsy02-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:roshili.tech@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-roshili.tech%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
