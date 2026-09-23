@@ -63,9 +63,6 @@ Também desenvolvo projetos através da **RoShiLi Tech**, com foco em sistemas d
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" height="42" alt="Power BI" title="Power BI"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftoffice/D83B01" width="42" height="42" alt="Microsoft Office" title="Pacote Office"/>
 </p>
 
 ### 🛡️ Cibersegurança
@@ -75,9 +72,6 @@ Também desenvolvo projetos através da **RoShiLi Tech**, com foco em sistemas d
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/fortinet/EE3124" width="42" height="42" alt="Fortinet" title="Fortinet"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/acronis/2368C4" width="42" height="42" alt="Acronis" title="Acronis"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Tactical%20RMM-RMM-2B2B2B?style=flat-square" height="42" alt="Tactical RMM" title="Tactical RMM"/>
 </p>
 
 ## 📊 Ciência de Dados
