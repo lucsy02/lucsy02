@@ -100,15 +100,25 @@ Desenvolvimento de soluções tecnológicas para pequenas e médias empresas.
 - Banco de Dados
 
 ---
-
 ## 📈 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucsy02&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucsy02&theme=github_dark" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucsy02&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucsy02&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucsy02&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucsy02&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucsy02&theme=github_dark&utcOffset=-3" />
+</p>
 
 ---
 
 ## 📫 Contato
 
 GitHub: **@lucsy02**
+e-mail: roshili.tech@gmail.com
